@@ -1,0 +1,27 @@
+- name: Deeksha
+  DOB: 200-08-22
+  mobilenumber: 987654321
+  adddresses:
+  - type: perm
+    flatno: 75
+    streetname: "rajiv nagar"
+    city: Hyderabad
+
+  - type: current
+    flatno: 75
+    streetname: "rajiv nagar"
+    city: Guntur
+
+- name: varsha
+  DOB: 200-08-22
+  mobilenumber: 987654321
+  adddresses:
+  - type: perm
+    flatno: 75
+    streetname: "rajiv nagar"
+    city: Hyderabad
+
+  - type: current
+    flatno: 75
+    streetname: "rajiv nagar"
+    city: Guntur  

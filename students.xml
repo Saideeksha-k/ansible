@@ -1,0 +1,56 @@
+<!-- -student object- -->
+
+<students>
+  <student> 
+     <FirstName>Deeksha</FirstName>
+      <DOB>2000-01-1</DOB>
+      <Email>deeksha@gmail.com</Email>
+      <!-- <Address>47,rajiv apartments,Guntur</Address>
+      <Address>
+        <flatNo>47</flatNo>
+        <streetname>rajiv nagar</streetname>
+        <city>Guntur</city>
+      </Address> -->
+
+       <Addresses>
+            <permAddress> 
+                <flatNo>47</flatNo>
+                <streetname>rajiv nagar</streetname>
+                <city>Guntur</city> 
+            </permAddress>
+            <currentAddress> 
+                <flatNo>47</flatNo>
+                <streetname>rajiv nagar</streetname>
+                <city>Hyderabad</city>
+            </currentAddress> 
+        </Addresses>
+
+   </student>
+   <student> 
+     <FirstName>varsha</FirstName>
+      <DOB>2000-01-1</DOB>
+      <Email>deeksha@gmail.com</Email>
+      <!-- <Address>47,rajiv apartments,Guntur</Address>
+      <Address>
+        <flatNo>47</flatNo>
+        <streetname>rajiv nagar</streetname>
+        <city>Guntur</city>
+      </Address> -->
+
+       <Addresses>
+            <permAddress> 
+                <flatNo>47</flatNo>
+                <streetname>rajiv nagar</streetname>
+                <city>Guntur</city> 
+            </permAddress>
+            <currentAddress> 
+                <flatNo>47</flatNo>
+                <streetname>rajiv nagar</streetname>
+                <city>Hyderabad</city>
+            </currentAddress> 
+        </Addresses>
+
+   </student>
+
+
+</students>
